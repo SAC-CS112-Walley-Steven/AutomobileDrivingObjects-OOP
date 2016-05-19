@@ -24,3 +24,5 @@ public class TestMain {
 		}
 	}
 }
+
+// Nicely done...please create a Minivan class and a Truck class ...then use an Array of Automobile in TestMain
