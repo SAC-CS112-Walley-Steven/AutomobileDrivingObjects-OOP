@@ -1,4 +1,3 @@
-
 public class SportsCar extends Automobile{
 	
 	private double turboBoost=0;

@@ -1,4 +1,3 @@
-
 public class Dice {
 
 	public static int Throw (int dices)
