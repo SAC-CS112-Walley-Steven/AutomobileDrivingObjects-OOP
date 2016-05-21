@@ -28,7 +28,7 @@ public class TestMain {
 			automobile[2].drive (count);
 			System.out.print(automobile[0]);
 			System.out.print(automobile[1]);
-			System.out.print(automobile[2]);
+			System.out.println(automobile[2]);
 		}
 	}
 }
